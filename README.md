@@ -1,8 +1,5 @@
 # Code-Cheif-Activity-2
-#In the this I created a Code to Check 
-1.Password Validation
-2.Phone Number Validation
-3.Url Validation
+
 #The below write code is to check the password is vaild or not 
  This is the Algorothim I excuted
  Steps to execute program
