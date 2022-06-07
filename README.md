@@ -22,4 +22,15 @@ In this repositary I had uploaded three code of
 6. Throught the conditional statement check whether the string length of input_code is not less thhan 2 or greater than 3
 7. If the len is not between them then print Invalid 
 8. Now throught elif not re.search check if the '+' symbol exists in the number. If not print that it should exist
-9. Now check if the digits are not in blw 0-9
+9. Now check if the digits are not in blw 0-9. If the number are not in blw them then then print the given string should exist blw the 0-9.
+10. If the string follows above condition then valid-code:True.
+11. Then If the patten.match which check if the pattren matches the given string then parint valid moble number
+12. Else print Invalid moble Number.
+# The below code is to check the Url number is vaild or not
+1. Take a string input of a Url
+2. Now throught a function called check-url take a function call 
+3. now in the fuction call take a variable which has the condition that need to be fullfilled by the url and name it as re.exp.copy the taken url throught this 
+4. Now take a variable named exp and re.complile (re-rep) that is to check if the taken Url has the given condition.
+5. If the Url does not have the condition the print that the string is empty
+6. If the reseach of the taken is ture that means it follows the conditions then the Url is valid
+7. The string does not follow any rule then print Url is invalid.
